@@ -1,0 +1,3 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: En .git fil skapas så att git klarar att hålla ordning på mig :)
+
