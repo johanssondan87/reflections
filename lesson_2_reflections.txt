@@ -3,3 +3,6 @@ A: En .git fil skapas så att git klarar att hålla ordning på mig :)
 
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 A: Det är mitt arbetsrum för commits
+
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: Genom att kolla git status med jämna mellanrum
