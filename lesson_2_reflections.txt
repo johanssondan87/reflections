@@ -9,3 +9,6 @@ A: Genom att kolla git status med jämna mellanrum
 
 Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A: När jag kommer på en sjukt bra ide som eventuellt inte är så bra och måste testas. Finns alltid ett ställe att gå tillbaka till.
+
+Q: How do the diagrams help you visualize the branch structure?
+A: Gör det lättare att se gemensamma punkter och fint för att få en bra överblick.
