@@ -12,3 +12,6 @@ A: När jag kommer på en sjukt bra ide som eventuellt inte är så bra och mås
 
 Q: How do the diagrams help you visualize the branch structure?
 A: Gör det lättare att se gemensamma punkter och fint för att få en bra överblick.
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A: Ett gott resultat.
